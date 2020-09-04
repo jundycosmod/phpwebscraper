@@ -1,0 +1,16 @@
+{
+    "name": "jundycosmod/phpwebscraper",
+    "type": "library",
+    "description": "A PHP webscraper class",
+    "keywords": ["php","webscraper"],
+    "homepage": "https://jundycosmod.github.io",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Jundy Cosmod",
+            "email": "jundycosmod@gmail.com",
+            "homepage": "https://jundycosmod.github.io",
+            "role": "Developer"
+        }
+    ],
+}
