@@ -4,7 +4,7 @@
     "description": "A PHP webscraper class",
     "keywords": ["php","webscraper"],
     "homepage": "https://jundycosmod.github.io",
-    "license": "GNU",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Jundy Cosmod",
