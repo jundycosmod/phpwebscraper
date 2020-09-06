@@ -1,6 +1,10 @@
 # phpwebscraper
 A PHP webscraper class
 
+<a href="https://packagist.org/packages/jundycosmod/phpwebscraper"><img src="https://poser.pugx.org/jundycosmod/phpwebscraper/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/jundycosmod/phpwebscraper"><img src="https://poser.pugx.org/jundycosmod/phpwebscraper/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/jundycosmod/phpwebscraper"><img src="https://poser.pugx.org/jundycosmod/phpwebscraper/license.svg" alt="License"></a>
+
 # Installation
 composer require jundycosmod/phpwebscraper:dev-master
 
